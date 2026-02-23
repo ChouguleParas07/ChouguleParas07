@@ -68,25 +68,16 @@ Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChouguleParas07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChouguleParas07&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChouguleParas07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ChouguleParas07/ChouguleParas07/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
