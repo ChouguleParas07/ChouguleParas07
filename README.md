@@ -3,7 +3,9 @@
 </p>
 
 
-<h1 align="center">Hi 👋 I'm Paras Ashok Chougule</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Paras%20Ashok%20Chougule&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 <h3 align="center">
 Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems
@@ -16,7 +18,7 @@ Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
 </p>
 
 ---
